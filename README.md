@@ -78,10 +78,6 @@ Predict_Crack("path_to_test_image.jpg")
 
 crack_detection.py: Core script for data splitting, training, and evaluation.
 
-Marvellous_Crack_Detection_Model.h5: Serialized weights for the trained neural network.
-
-CrackDataset/: Standardized directory containing train/ and test/ splits.
-
 # 👤 Author
 
 Sakshi Bhapkar Final-Year Information Technology Engineering Student
